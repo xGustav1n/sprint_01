@@ -1,0 +1,23 @@
+
+
+        body {
+            margin: 0;
+        }
+        .card {
+            width: 500px; height: fit-content;
+            background-color: rgba(5, 5, 5, 0.849); border-radius: 10px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .perfil {
+            width: 100px; height: 100px;
+            background-color: rgb(255, 0, 0); border-style: double; border-color: rgb(255, 0, 0); margin: 7px;
+        }
+        .border-card {
+            border: blue;
+        }
+        h1 {
+            color: rgb(255, 255, 255); margin: 7px;
+        }
+        p {
+            color: rgb(255, 255, 255); margin: 7px;
+        }
